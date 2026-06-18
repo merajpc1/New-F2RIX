@@ -80,7 +80,7 @@
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
   "nickNameBot": "F2RIX BOT",
-  "prefix": ")",
+  "prefix": "/",
   "database": {
     "type": "mongodb",
     "uriMongodb": "mongodb+srv://Hinata:W2fNh.H9iWFU22F@cluster0.cyattib.mongodb.net/OZADNOOB1?retryWrites=true&w=majority&appName=Cluster0",
